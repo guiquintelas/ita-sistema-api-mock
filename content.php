@@ -3,5 +3,4 @@
         echo "ipnyf";
         echo "lqdoq";
         echo "sdyaj";
-        echo "eegmc";
 ?>
