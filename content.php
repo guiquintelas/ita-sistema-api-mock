@@ -27,5 +27,4 @@
         echo "aqkra";
         echo "btyid";
         echo "hrwgh";
-        echo "iisah";
 ?>
