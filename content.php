@@ -42,5 +42,4 @@
         echo "gaybs";
         echo "xhuhg";
         echo "imroj";
-        echo "ixdir";
 ?>
