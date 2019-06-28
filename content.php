@@ -49,5 +49,4 @@
         echo "qsxdq";
         echo "fnhtl";
         echo "ubfds";
-        echo "smisp";
 ?>
