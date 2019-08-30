@@ -93,5 +93,4 @@
         echo "wdlhj";
         echo "btwpn";
         echo "ecuke";
-        echo "umuec";
 ?>
