@@ -115,5 +115,4 @@
         echo "pgdjk";
         echo "gnbxb";
         echo "dobgm";
-        echo "whmdp";
 ?>
