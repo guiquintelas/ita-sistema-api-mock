@@ -134,5 +134,4 @@
         echo "xskfg";
         echo "hedoy";
         echo "cjsbb";
-        echo "yyfhy";
 ?>
