@@ -1,2 +1,2 @@
 echo "rddqc"
-echo "grdwn"
+echo "dwlsc"
