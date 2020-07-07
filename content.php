@@ -200,5 +200,4 @@
         echo "ncibb";
         echo "yvkbu";
         echo "kpccx";
-        echo "bjdot";
 ?>
